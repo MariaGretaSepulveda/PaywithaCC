@@ -286,7 +286,7 @@ body {
   object-position: top right;
 }
 .card-item__info {
-  color: #fff;
+  color: rgb(255, 255, 255);
   width: 100%;
   max-width: calc(100% - 85px);
   padding: 10px 15px;
